@@ -71,6 +71,7 @@ cm_display.plot()
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/0510e673-4fd3-45ca-b6c5-47440dcba783)
 
 
 
