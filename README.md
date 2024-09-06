@@ -70,6 +70,7 @@ cm_display.plot()
 ```
 
 ## Output:
+
 ![image](https://github.com/user-attachments/assets/4ad013b1-6130-4463-8ad7-d6234b9d0723)
 ![image](https://github.com/user-attachments/assets/a306840b-58dc-400c-9a2e-b6c767feba72)
 
