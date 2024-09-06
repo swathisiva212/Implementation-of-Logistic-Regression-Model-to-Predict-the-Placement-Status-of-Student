@@ -71,8 +71,7 @@ cm_display.plot()
 
 ## Output:
 
-![image](https://github.com/harini1006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497405/169cbb29-e146-415e-ad47-9d8acf1f2636)
-![image](https://github.com/harini1006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497405/9e7f72e8-5cd7-4a1b-be01-16c8d79fecb3)
+
 
 
 ## Result:
